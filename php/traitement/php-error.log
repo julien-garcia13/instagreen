@@ -1,0 +1,73 @@
+[07-Jul-2022 19:50:13 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" or "{" in C:\wamp64\www\boutique\php\class\class-panier.php on line 70
+[18-Jul-2022 15:04:37 UTC] PHP Warning:  Undefined variable $intention in C:\wamp64\www\boutique\php\traitement\paiement.php on line 67
+[18-Jul-2022 15:04:37 UTC] PHP Stack trace:
+[18-Jul-2022 15:04:37 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 15:04:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\boutique\php\traitement\paiement.php on line 67
+[18-Jul-2022 15:04:37 UTC] PHP Stack trace:
+[18-Jul-2022 15:04:37 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 15:04:40 UTC] PHP Warning:  Undefined variable $intention in C:\wamp64\www\boutique\php\traitement\paiement.php on line 67
+[18-Jul-2022 15:04:40 UTC] PHP Stack trace:
+[18-Jul-2022 15:04:40 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 15:04:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\boutique\php\traitement\paiement.php on line 67
+[18-Jul-2022 15:04:40 UTC] PHP Stack trace:
+[18-Jul-2022 15:04:40 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 15:24:40 UTC] PHP Warning:  Undefined variable $intention in C:\wamp64\www\boutique\php\traitement\paiement.php on line 67
+[18-Jul-2022 15:24:40 UTC] PHP Stack trace:
+[18-Jul-2022 15:24:40 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 15:24:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\boutique\php\traitement\paiement.php on line 67
+[18-Jul-2022 15:24:40 UTC] PHP Stack trace:
+[18-Jul-2022 15:24:40 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 15:26:44 UTC] PHP Warning:  Undefined variable $intention in C:\wamp64\www\boutique\php\traitement\paiement.php on line 67
+[18-Jul-2022 15:26:44 UTC] PHP Stack trace:
+[18-Jul-2022 15:26:44 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 15:26:44 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\boutique\php\traitement\paiement.php on line 67
+[18-Jul-2022 15:26:44 UTC] PHP Stack trace:
+[18-Jul-2022 15:26:44 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 15:27:00 UTC] PHP Warning:  Undefined variable $intention in C:\wamp64\www\boutique\php\traitement\paiement.php on line 67
+[18-Jul-2022 15:27:00 UTC] PHP Stack trace:
+[18-Jul-2022 15:27:00 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 15:27:00 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\boutique\php\traitement\paiement.php on line 67
+[18-Jul-2022 15:27:00 UTC] PHP Stack trace:
+[18-Jul-2022 15:27:00 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 18:24:13 UTC] PHP Warning:  Undefined variable $intention in C:\wamp64\www\boutique\php\traitement\paiement.php on line 67
+[18-Jul-2022 18:24:13 UTC] PHP Stack trace:
+[18-Jul-2022 18:24:13 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 18:24:13 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\boutique\php\traitement\paiement.php on line 67
+[18-Jul-2022 18:24:13 UTC] PHP Stack trace:
+[18-Jul-2022 18:24:13 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 18:24:26 UTC] PHP Warning:  Undefined variable $intention in C:\wamp64\www\boutique\php\traitement\paiement.php on line 63
+[18-Jul-2022 18:24:26 UTC] PHP Stack trace:
+[18-Jul-2022 18:24:26 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 18:24:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\boutique\php\traitement\paiement.php on line 63
+[18-Jul-2022 18:24:26 UTC] PHP Stack trace:
+[18-Jul-2022 18:24:26 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 18:25:34 UTC] PHP Warning:  Undefined variable $intention in C:\wamp64\www\boutique\php\traitement\paiement.php on line 63
+[18-Jul-2022 18:25:34 UTC] PHP Stack trace:
+[18-Jul-2022 18:25:34 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 18:25:34 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\boutique\php\traitement\paiement.php on line 63
+[18-Jul-2022 18:25:34 UTC] PHP Stack trace:
+[18-Jul-2022 18:25:34 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 18:25:40 UTC] PHP Warning:  Undefined variable $intention in C:\wamp64\www\boutique\php\traitement\paiement.php on line 63
+[18-Jul-2022 18:25:40 UTC] PHP Stack trace:
+[18-Jul-2022 18:25:40 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 18:25:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\boutique\php\traitement\paiement.php on line 63
+[18-Jul-2022 18:25:40 UTC] PHP Stack trace:
+[18-Jul-2022 18:25:40 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 18:36:02 UTC] PHP Warning:  Undefined variable $intent in C:\wamp64\www\boutique\php\traitement\paiement.php on line 63
+[18-Jul-2022 18:36:02 UTC] PHP Stack trace:
+[18-Jul-2022 18:36:02 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 18:36:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\boutique\php\traitement\paiement.php on line 63
+[18-Jul-2022 18:36:02 UTC] PHP Stack trace:
+[18-Jul-2022 18:36:02 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 18:36:41 UTC] PHP Warning:  Undefined variable $intention in C:\wamp64\www\boutique\php\traitement\paiement.php on line 63
+[18-Jul-2022 18:36:41 UTC] PHP Stack trace:
+[18-Jul-2022 18:36:41 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 18:36:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\boutique\php\traitement\paiement.php on line 63
+[18-Jul-2022 18:36:41 UTC] PHP Stack trace:
+[18-Jul-2022 18:36:41 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 18:36:52 UTC] PHP Warning:  Undefined variable $intention in C:\wamp64\www\boutique\php\traitement\paiement.php on line 63
+[18-Jul-2022 18:36:52 UTC] PHP Stack trace:
+[18-Jul-2022 18:36:52 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
+[18-Jul-2022 18:36:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\boutique\php\traitement\paiement.php on line 63
+[18-Jul-2022 18:36:52 UTC] PHP Stack trace:
+[18-Jul-2022 18:36:52 UTC] PHP   1. {main}() C:\wamp64\www\boutique\php\traitement\paiement.php:0
